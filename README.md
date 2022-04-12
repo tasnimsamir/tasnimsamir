@@ -1,4 +1,3 @@
-### Hi there 👋
 <h3 align="center">
 Hi there, I'm <a href="https://github.com/tasnimsamir" target="_blank" rel="noreferrer">Tasnim</a> 👋
 </h3>
@@ -7,7 +6,7 @@ Hi there, I'm <a href="https://github.com/tasnimsamir" target="_blank" rel="nore
 I'm a Machine Learning Engineer| Deeplearning Engineer 💻!
 </h2> 
 
-### Githyb Stats
+### Github Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tasnimsamir)](https://github.com/tasnimsamir)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasnimsamir&layout=compact)](https://github.com/tasnimsamir)
 <!--
