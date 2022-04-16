@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://github.com/tasnimsamir" target="_blank" rel="nore
 </h3>
 
 <h2 align="center">
-I'm a Junior Software Developer 💻!
+Junior Software Developer 💻!
 </h2> 
 
 ### Github Stats
