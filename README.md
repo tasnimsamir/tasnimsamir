@@ -55,6 +55,10 @@
 ### 🔵 Backend Development
 <p align="center"> 
   &emsp; 
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> 
+   <img alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  </a>  
+  &emsp; 
   <a href="https://expressjs.com" target="_blank"> 
    <img alt="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB">
   </a>   
