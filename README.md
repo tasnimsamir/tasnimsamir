@@ -54,6 +54,10 @@
   <a href="https://vuetifyjs.com/en/" target="_blank">
     <img alt="vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=plastic&logo=vuetify&logoColor=AEDDFF">
   </a>
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank">
+   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white">
+  </a>
 </p>
 
 ### 🔵 Backend Development
@@ -86,6 +90,10 @@
   <a href="https://www.mongodb.com/"  target="_blank">
     <img alt="mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   </a>	
+  &emsp;
+  <a href="https://console.firebase.google.com/" target="_blank">
+   <img alt="Firebase Console" src="https://img.shields.io/badge/Firebase%20Console-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  </a>
 </p>  
                                                                                                                 
 ### 🔵 AI/ML
@@ -129,6 +137,10 @@
   &emsp;
   <a href="https://postman.com"  target="_blank">
     <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://firebase.google.com/" target="_blank">
+   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black">
   </a>
 </p> 
 
